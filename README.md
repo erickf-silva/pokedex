@@ -1,6 +1,6 @@
 # Pokédex | Desafio React Avançado - DevQuest
 
-Esta é uma solução para o desafio do curso DevQuest, onde os professores dão feedback e indicam pontos de melhorias no projeto [Pokédex]().
+Esta é uma solução para o desafio do curso DevQuest, onde os professores dão feedback e indicam pontos de melhorias no projeto [Pokédex](https://pokedex-7ti0g1gg4-ericks-projects-a3de9c6f.vercel.app/).
 
 O projeto tem como finalidade testar os aprendizados do módulo de React Avançado, simulando um teste técnico. O intuito do desafio é avaliar como o aluno criaria uma Single Page Application (SPA) usando React para desenvolver a aplicação.
 
@@ -8,13 +8,13 @@ Com o projeto finalizado, os professores do curso avaliam a usabilidade, criativ
 
 ## Índice
 
-- [Visão geral](#visão-geral)
-  - [O desafio](#O-desafio)
-  - [Resultado](#Resultado)
-  - [Links](#Links)
-  - [Construído com](#Construído-com)
-  - [Tecnologias](#Tecnologias)
-  - [Comandos para rodar o projeto](#Comandos-para-rodar-o-projeto)
+- [Visão geral](#Visão-geral)
+  - [O desafio](#O-desafio-🎯)
+  - [Resultado](#Resultado-⬇️)
+  - [Links](#Links-🔗)
+  - [Construído com](#Construído-com-🏗️)
+  - [Tecnologias](#Tecnologias-🧑🏽‍💻)
+  - [Comandos para rodar o projeto](#Comandos-para-rodar-o-projeto-📁)
 
 ## Visão geral
 
@@ -43,7 +43,7 @@ Versão mobile 📱
 
 ### Links 🔗
 
-- Link do projeto: [Visualizar projeto]()
+- Link do projeto: [Visualizar projeto](https://pokedex-7ti0g1gg4-ericks-projects-a3de9c6f.vercel.app/)
 
 ### Construído com 🏗️
 
@@ -71,7 +71,7 @@ Antes de começar, você tem que ter instalado as seguintes ferramentas ⬇️
 
 Clone este repositório com o Git Bash:
 ```
-git clone https://github.com...
+git clone https://github.com/erickf-silva/pokedex.git
 ```
 Entre na pasta que foi criada e abra com o Git Bash e use o seguinte comando para baixar e instalar os pacotes npm e suas dependências:
 

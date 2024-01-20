@@ -4,6 +4,7 @@ import { PokemonFilter } from "../PokemonFilter";
 import { ThemeTogglerButton } from "../ThemeTogglerBtn";
 import { useContext } from "react";
 import { ThemeContext } from "../../contexts";
+import PokemonLogo from "../../assets/pokemon-logo.png"
 
 export const NavBar = ({ filterPokemon, hideSearch, pokemons, setPokemons, getPokemons }) => {
     const { theme } = useContext(ThemeContext);
@@ -18,7 +19,7 @@ export const NavBar = ({ filterPokemon, hideSearch, pokemons, setPokemons, getPo
 
             <Div>
                 <a href="" onClick={() => navigate("/")}>
-                    <Img src="../src/assets/pokemon-logo.png" alt="logo pokemon" />
+                    <Img src={PokemonLogo} alt="logo pokemon" />
                 </a>
 
                 {!hideSearch && (
